@@ -1,0 +1,15 @@
+{
+    "name": "souley/phpcomposer",
+    "autoload": {
+        "psr-4": {
+            "Souley\\Phpcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Souley",
+            "email": "souleynu@gmail.com"
+        }
+    ],
+    "require": {}
+}
