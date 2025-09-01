@@ -11,5 +11,10 @@
             "email": "souleynu@gmail.com"
         }
     ],
-    "require": {}
+    "scripts": { 
+        "dev": "php index.php"
+    },
+    "require": {
+        "monolog/monolog": "^3.9"
+    }
 }
